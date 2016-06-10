@@ -1,0 +1,9 @@
+.idea/vcs.xml
+.idea/workspace.xml
+node_modules/nested-error-stacks/README.md~
+node_modules/normalize-package-data/test/normalize.js~
+public/images/
+public/javascripts/
+
+node_modules
+/.gitignore
